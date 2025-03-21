@@ -1,5 +1,5 @@
 #include <Servo.h>
-#define numOfValsRec 5
+#define numOfValsRec 5 
 #define digitsPerValRec 1
 
 Servo servoThumb;
